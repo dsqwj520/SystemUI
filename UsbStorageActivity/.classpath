@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="D:/福霖代码/周勇给的代码/新建文件夹/classes(6).jar"/>
+	<classpathentry kind="lib" path="D:/福霖代码/周勇给的代码/新建文件夹/classes(5).jar"/>
+	<classpathentry kind="lib" path="D:/福霖代码/周勇给的代码/新建文件夹/classes1.jar"/>
+	<classpathentry kind="lib" path="D:/福霖代码/周勇给的代码/新建文件夹/classes2.jar"/>
+	<classpathentry kind="lib" path="D:/福霖代码/周勇给的代码/新建文件夹/classes3.jar"/>
+	<classpathentry kind="lib" path="D:/福霖代码/周勇给的代码/新建文件夹/classes4.jar"/>
+	<classpathentry kind="lib" path="D:/福霖代码/周勇给的代码/classes(1).jar"/>
+	<classpathentry kind="lib" path="D:/福霖代码/周勇给的代码/classes.jar" sourcepath="D:/v40-sdk/新建文件夹/android"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
